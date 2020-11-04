@@ -187,9 +187,9 @@ post-title {
 
 .coverflow {
   position: relative;
-  left: 300px;
+  left: 15%;
   top: 10px;
-  width: 570px;
+  width: 850px;
   height: 340px;
 }
 
